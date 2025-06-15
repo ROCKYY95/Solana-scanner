@@ -1,5 +1,5 @@
 # Solana-scanner
-# Solana-scanner
+
 import requests
 import json
 from solana.rpc.api import Client
